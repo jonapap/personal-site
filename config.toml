@@ -1,0 +1,4 @@
+baseURL = "https://test.jpapineau.ca/"
+languageCode = "en-us"
+title = "Jonathan Papineau"
+theme = "dimension"
