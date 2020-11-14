@@ -1659,3 +1659,16 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+/* Custom */
+
+		img {
+			width: 100%;
+		}
+
+		.logo {
+			width: 50px;
+			float: left;
+			margin: 10px;
+			text-align: center;
+		}
