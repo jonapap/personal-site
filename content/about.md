@@ -4,8 +4,8 @@ title: About
 
 ![](/images/about_picture.jpg)
 
-Hi, I'm Jonathan, a second-year computer science student at the University of Ottawa. I enjoy nature, swimming, and 
-going cross-country skiing in the Winter. Oh, and of course, I love learning about pretty much anything related to 
+Hi, I'm Jonathan, a second-year computer science student at the University of Ottawa. I enjoy nature, swimming, and
+ cross-country skiing in the Winter. Oh, and of course, I love learning about pretty much anything related to 
 mathematics, science, or technology.
 
 Here is where you can find me online:
