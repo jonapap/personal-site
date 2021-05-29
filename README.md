@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1758cce1-8ae0-447b-9a53-89360b847afc/deploy-status)](https://app.netlify.com/sites/festive-volhard-6a5042/deploys)
 # Personal Site
 A personal website built using Hugo and HTML5UP's Dimension theme. At the time of writing, Netlify is the hosting provider.
 
